@@ -34,11 +34,12 @@ In this Python Project, I had used Deep Learning to accurately identify the gend
 
  <h2>Commands to Run:</h2>
  <ul>
+  <li>git init<li>
+  <li>git clone https://github.com/Rishishrivastav/age-and-gender-detection.git<li>
   <li> python identify.py</li>
   <li> python identify.py --image shubh.jpeg</li>
  </ul>
  
  
-
 
 
